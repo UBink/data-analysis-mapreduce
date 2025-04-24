@@ -1,2 +1,13 @@
 .DS_Store
 combined_data/2025_combined.csv
+data/2015.tar.gz
+data/2016.tar.gz
+data/2017.tar.gz
+data/2018.tar.gz
+data/2019.tar.gz
+data/2020.tar.gz
+data/2021.tar.gz
+data/2022.tar.gz
+data/2023.tar.gz
+data/2024.tar.gz
+data/2025.tar.gz
